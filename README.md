@@ -1,4 +1,4 @@
-# HealthCare Using Ethereum Blockchain
+# HealthCare Using Ethereum Blockchain (Developed at Hack36)
 
 ## Project Objective
 This project is developed with the aim to store patient healthcare records over blockchain.
